@@ -4,12 +4,10 @@
   "display": "fullscreen",
   "icons": [
     {
-      "src": "icon/fox-icon.png",
-      "sizes": "192x192",
+      "src": "https://anubhavsingh0708.github.io/favicon.ico",
       "type": "image/png"
     }
   ],
   "name": "Awesome fox pictures",
-  "short_name": "Foxes",
-  "start_url": "/pwa-examples/a2hs/index.html"
+  "short_name": "Foxes"
 }
