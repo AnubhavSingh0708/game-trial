@@ -1,0 +1,31 @@
+{
+  "short_name": "game trial",
+  "name": "trial of updating pwa",
+  "icons": [
+    {
+      "src": "https://anubhavsingh0708.github.io/favicon.ico",
+      "type": "image/x-icon",
+      "sizes": "256x256"
+    }
+  ],
+  "start_url": ".",
+  "background_color": "#000000",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "shortcuts": [
+    {
+      "name": "game trial",
+      "short_name": "game trial",
+      "description": "check updateable pwa",
+      "url": ".",
+      "icons": [
+    {
+      "src": "https://anubhavsingh0708.github.io/favicon.ico",
+      "type": "image/x-icon",
+      "sizes": "256x256"
+    }
+  ]
+    }
+  ],
+  "description": "updatable pwa trial"
+}
