@@ -1,13 +1,13 @@
 {
-  "background_color": "purple",
-  "description": "Shows random fox pictures. Hey, at least it isn't cats.",
-  "display": "fullscreen",
+  "background_color": "white",
+  "description": "a 3d javascript game",
+  "display": "standalone",
   "icons": [
     {
       "src": "https://anubhavsingh0708.github.io/favicon.ico",
-      "type": "image/png"
+      "type": "image/x-icon"
     }
   ],
-  "name": "Awesome fox pictures",
-  "short_name": "Foxes"
+  "name": "game trial",
+  "short_name": "game trial"
 }
