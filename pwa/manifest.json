@@ -6,6 +6,11 @@
       "src": "https://anubhavsingh0708.github.io/favicon.ico",
       "type": "image/x-icon",
       "sizes": "256x256"
+    },
+     {
+      "src": "https://anubhavsingh0708.github.io/favicon.jpeg",
+      "type": "image/jpeg",
+      "sizes": "795x795"
     }
   ],
   "start_url": ".",
