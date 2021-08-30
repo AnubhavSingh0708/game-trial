@@ -1,10 +1,10 @@
 self.addEventListener('install', (e) => {
   e.waitUntil(
     caches.open('pwa-trial').then((cache) => cache.addAll([
-      'game-trial/pwa/',
-      'game-trial/pwa/index.html',
-      'game-trial/pwa/index.js',
-      'game-trial/pwa/style.css',
+      '.',
+      './index.html',
+      './index.js',
+      './style.css',
     ])),
   );
 });
